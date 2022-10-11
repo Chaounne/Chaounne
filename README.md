@@ -1,4 +1,6 @@
-### Hi there 👋👋👋👋
+### Bonjour ! 👋👋👋👋
+
+##Je m'appelle Cédric-Alexandre PASCAL, j'ai 19 ans et j'étudie actuellement à l'I.U.T. de Blagnac en 2ème année de B.U.T. Informatique Parcours A : Réalisation d'application. Ici vous trouverez les projets que j'ai réalisé sur github qu'ils soient personnels ou à l'I.U.T.
 
 <!--
 **Chaounne/Chaounne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
