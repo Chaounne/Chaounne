@@ -1,6 +1,6 @@
 ### Bonjour ! 👋👋👋👋
 
-Je m'appelle Cédric-Alexandre PASCAL, j'ai 20 ans et j'étudie actuellement à l'I.U.T. de Blagnac en 3ème année de B.U.T. Informatique Parcours A : Réalisation d'application. Ici vous trouverez les projets que j'ai réalisé sur github qu'ils soient personnels ou à l'I.U.T.
+Je m'appelle Cédric-Alexandre PASCAL, j'ai 21 ans et j'étudie actuellement à l'I.U.T. de Blagnac en 3ème année de B.U.T. Informatique Parcours A : Réalisation d'application. Ici vous trouverez les projets que j'ai réalisé sur github qu'ils soient personnels ou à l'I.U.T.
 
 
 <!--
