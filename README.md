@@ -1,10 +1,10 @@
 ### Bonjour ! 👋👋👋👋
 
-Je m'appelle Cédric-Alexandre PASCAL, j'ai 22 ans et je suis diplômé de l'I.U.T. de Blagnac avec un B.U.T. Informatique Parcours A : Réalisation d'application. Ici vous trouverez les projets que j'ai réalisé sur github qu'ils soient personnels ou à l'I.U.T.
+Je m'appelle Cédric-Alexandre PASCAL, j'ai 23 ans et je suis diplômé de l'I.U.T. de Blagnac avec un B.U.T. Informatique Parcours A : Réalisation d'application. Ici vous trouverez les projets que j'ai réalisé sur github qu'ils soient personnels ou à l'I.U.T.
 
 ### Hi ! 
 
-My name is Cédric-Alexandre PASCAL, I am 22 years old, and I graduated from the I.U.T. of Blagnac with a B.U.T. in Computer Science, Track A: Application Development. Here you will find the projects I have completed on GitHub, whether personal or carried out during my studies at the I.U.T.
+My name is Cédric-Alexandre PASCAL, I am 23 years old, and I graduated from the I.U.T. of Blagnac with a B.U.T. in Computer Science, Track A: Application Development. Here you will find the projects I have completed on GitHub, whether personal or carried out during my studies at the I.U.T.
 
 <!--
 **Chaounne/Chaounne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
